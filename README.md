@@ -5,7 +5,7 @@ Aplicação Web desenvolvida com React e Node, com o intuito de auxiliar pessoas
 # Web
 
 - ##Tela Inicial
-![Tela Inicial]()
+![Tela Inicial](https://github.com/devSirNaelC7/nlw-ecoleta/blob/master/assets/img.png?raw=true)
 
 
 
